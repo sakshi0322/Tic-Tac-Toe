@@ -146,3 +146,18 @@ body {
 .winning-message.show {
   display: flex;
 }
+.input-form{
+  color: red;
+}
+.container-first-page{
+  display: flex;
+  justify-content: space-around;
+}
+.container-second-page{
+  display: flex;
+  justify-content: space-around;
+}
+.container-third-page{
+  display: flex;
+  justify-content: space-around;
+}
